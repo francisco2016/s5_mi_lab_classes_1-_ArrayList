@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=capacity\ nameInstructor
+comment0.target=LabClasses(int,\ java.lang.String)
+comment1.params=
+comment1.target=java.util.ArrayList\ getStudent()
+comment2.params=
+comment2.target=int\ getCapacity()
+comment3.params=capacity
+comment3.target=void\ setCapacity(int)
+comment4.params=nameInstructor
+comment4.target=void\ setNameInstructor(java.lang.String)
+comment5.params=stu
+comment5.target=void\ matricularStudent(Student)
+comment6.params=
+comment6.target=void\ listaDeStudents()
+comment6.text=\r\n\ mt\ para\ mostrar\ la\ lista\ de\ los\ alumnos\ matriculados.\r\n
+numComments=7
